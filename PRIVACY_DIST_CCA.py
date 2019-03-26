@@ -2,9 +2,7 @@ import numpy as np
 
 print("This program will demonstrate the use of privacy distributed CCA. \n")
 
-base_path = "/path/to/base"
-
-# This part of the code defines the following variables:
+# Defining the following variables:
 D_x = 2
 D_y = 3
 N_s = D_x + D_y
