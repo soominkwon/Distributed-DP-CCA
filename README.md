@@ -11,7 +11,7 @@ This project is being advised by Professor Anand D. Sarwate, with PhD candidate 
 
 
 
-NOTE (1):
+**NOTE (1):**
 The "Part 2" File and the alone Python file are two different codes.
 
 The stand alone Python .py is for calculating the eigenvalues of two randomly generated data.
@@ -22,7 +22,7 @@ Please consider all files before compilation.
 
 
 
-NOTE (2):
+**NOTE (2):**
 There will soon be uploaded a Python file and other files with the regard of the COINSTAC framework.
 
 This will save a file, which we will use the popular K-means clustering algorithm on the saved file.
