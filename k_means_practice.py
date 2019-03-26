@@ -35,10 +35,7 @@ for number in range(k):
     X_k = X[ids, :]
     Z_k = np.mean(X_k, axis=0)
     numerator += np.linalg.norm(Z_k - z)
-    for x, y in zip(X, labels):
-        if y == (k-1):
-            Z_nk = x
-    denominator += np.linalg.norm(Z_nk - Z_k)
+    denominator += np.linalg.norm(X_k - Z_k)
 
 
 numerator_1 = (1/(k - 1)) * N_k * np.square(numerator)
