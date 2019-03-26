@@ -37,9 +37,6 @@ a = np.dot(U.T, X)
 b = np.dot(V.T, Y)
 s1 = 1/N * (np.linalg.norm(a - b))
 
-# print(s1_hat)
-# print(s1)
-
 # Calculating s2_hat
 s2_matrices = np.dot(U_hat.T, X)
 s2_matrices2 = np.dot(Y.T, V_hat)
