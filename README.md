@@ -4,6 +4,7 @@ This repository is for the active research of Differentially Private CCA.
 
 There are no sets of instructions released yet, however, you can run the two files of code.
 These codes are written in Python, in the PyCharm IDE.
+This project is being advised by Professor Anand D. Sarwate, with PhD candidate Hafiz Imtiaz.
 
 
 NOTE (1):
