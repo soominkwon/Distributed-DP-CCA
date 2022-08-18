@@ -1,6 +1,6 @@
 # Differentially-Private-Canonical-Correlation-Analysis (DP-CCA)
 
-This repository includes code and results reproduced from the paper  "Distributed Differentially-Private Canonical Correlation Analysis" by Hafiz Imtiaz and Anand D. Sarwate. This paper assumes an 'honest but curious' decentralized setting in which local sites would like to collaborate with a relevant remote site. 
+This repository includes code and results reproduced from the paper  "Distributed Differentially-Private Canonical Correlation Analysis" by Hafiz Imtiaz and Anand D. Sarwate. This paper assumes an 'honest but curious' decentralized setting.
 
 Please refer to the original paper: https://ieeexplore.ieee.org/document/8683252
 
